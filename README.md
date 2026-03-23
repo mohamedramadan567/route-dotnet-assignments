@@ -1,5 +1,10 @@
 # Route .NET Backend Diploma – Assignments
 
+> 🚧 **Work in Progress**  
+> This repository is part of my learning journey in the **Route .NET Backend Diploma**.  
+> New topics, assignments, and projects will be added as I continue progressing through the program.
+
+
 This repository contains my assignments, exercises, and projects from the **Route .NET Backend Diploma**.
 
 The program focuses on building strong foundations in **C# and .NET development**, covering everything from programming fundamentals and object-oriented design to building web applications and APIs using modern .NET technologies.
