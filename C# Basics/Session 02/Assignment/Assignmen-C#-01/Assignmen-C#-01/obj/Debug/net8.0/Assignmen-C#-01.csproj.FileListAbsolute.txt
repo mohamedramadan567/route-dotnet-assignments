@@ -1,0 +1,14 @@
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\bin\Debug\net8.0\Assignmen-C#-01.exe
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\bin\Debug\net8.0\Assignmen-C#-01.deps.json
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\bin\Debug\net8.0\Assignmen-C#-01.runtimeconfig.json
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\bin\Debug\net8.0\Assignmen-C#-01.dll
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\bin\Debug\net8.0\Assignmen-C#-01.pdb
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.AssemblyInfoInputs.cache
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.AssemblyInfo.cs
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.csproj.CoreCompileInputs.cache
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.dll
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\refint\Assignmen-C#-01.dll
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.pdb
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\Assignmen-C#-01.genruntimeconfig.cache
+C:\Users\abdullah abozina\source\repos\Assignmen-C#-01\Assignmen-C#-01\obj\Debug\net8.0\ref\Assignmen-C#-01.dll

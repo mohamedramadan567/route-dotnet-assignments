@@ -1,0 +1,14 @@
+D:\Route Diploma\02 C# Basics\Session 04\Task\bin\Debug\net9.0\Task.exe
+D:\Route Diploma\02 C# Basics\Session 04\Task\bin\Debug\net9.0\Task.deps.json
+D:\Route Diploma\02 C# Basics\Session 04\Task\bin\Debug\net9.0\Task.runtimeconfig.json
+D:\Route Diploma\02 C# Basics\Session 04\Task\bin\Debug\net9.0\Task.dll
+D:\Route Diploma\02 C# Basics\Session 04\Task\bin\Debug\net9.0\Task.pdb
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.AssemblyInfoInputs.cache
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.AssemblyInfo.cs
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.csproj.CoreCompileInputs.cache
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.dll
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\refint\Task.dll
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.pdb
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\Task.genruntimeconfig.cache
+D:\Route Diploma\02 C# Basics\Session 04\Task\obj\Debug\net9.0\ref\Task.dll
