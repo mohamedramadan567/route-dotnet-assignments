@@ -107,24 +107,6 @@ The course focuses on relational database design and SQL Server development, cov
 
 Each folder represents a session from the course and contains the assignments or exercises related to that session.
 
-```
-Database
-│
-├── Session 01
-├── Session 02
-├── Session 03
-├── Session 04
-├── Session 05
-├── Session 06
-├── Session 07
-├── Session 08
-├── Session 09
-├── Session 10
-├── Session 11
-├── Session 12
-└── Session 13
-```
-
 ---
 
 ## Skills Practiced
@@ -139,15 +121,3 @@ Database
 * Transaction management
 * Database security and access control
 
----
-
-## Author
-
-Mohamed Ramadan Wehebi
-Computer Science Student – Benha University
-
-LinkedIn
-https://www.linkedin.com/in/mohamed-ramadan-732a82287/
-
-GitHub
-https://github.com/mohamedramadan567

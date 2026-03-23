@@ -98,16 +98,3 @@ The course focuses on learning **C# programming fundamentals** and **.NET develo
 * Error and exception handling
 * Nullable types and null operators
 * Object-oriented programming concepts
-
----
-
-## Author
-
-Mohamed Ramadan Wehebi  
-Computer Science Student – Benha University
-
-LinkedIn  
-https://www.linkedin.com/in/mohamed-ramadan-732a82287/
-
-GitHub  
-https://github.com/mohamedramadan567
