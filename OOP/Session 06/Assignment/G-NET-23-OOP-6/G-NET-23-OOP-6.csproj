@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Output
+		>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>G_NET_23_OOP_6</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
