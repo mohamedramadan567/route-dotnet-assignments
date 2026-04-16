@@ -19,7 +19,7 @@ namespace G_NET_23_OOP_2.Movie_Ticket_Booking_System
             }
             set
             {
-                if (string.IsNullOrEmpty(value))
+                if (!string.IsNullOrEmpty(value))
                     _movieName = value;
             }
         }
